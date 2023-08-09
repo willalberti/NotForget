@@ -3,3 +3,6 @@ kafka:
   streams:
     replication-factor: 1
     application-id: invoices-details
+
+spring:
+  application-id: 2
